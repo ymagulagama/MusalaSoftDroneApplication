@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-
 using MusalaSoftDrones.Api.DomainEntities;
 using MusalaSoftDrones.Api.DomainEntities.Enums;
 
@@ -7,6 +6,9 @@ using MusalaSoftDrones.Api.DomainEntities.Enums;
 
 namespace MusalaSoftDrones.Api.Controllers
 {
+    /// <summary>
+    /// This class mange drone related actions.
+    /// </summary>
     [Route("api/[controller]")]
     [ApiController]
     public class DronesController : ControllerBase
