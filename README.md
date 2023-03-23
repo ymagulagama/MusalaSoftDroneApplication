@@ -10,7 +10,7 @@ access
 
 ## Running Tests
 
-This project build using .NET 6.0 and visual studeo 2022. using SwaggerUI can test.
+This project build using .NET 6.0 and visual studio 2022. using SwaggerUI can test.
 
 ## Github Repo Url
 
