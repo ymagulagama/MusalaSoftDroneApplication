@@ -4,14 +4,14 @@
     "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj": {}
   },
   "projects": {
-    "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj": {
+    "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\MusalaSoftDrones.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj",
-        "projectName": "TestMusalaSoftDrones",
-        "projectPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj",
+        "projectUniqueName": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\MusalaSoftDrones.Api.csproj",
+        "projectName": "MusalaSoftDrones.Api",
+        "projectPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\MusalaSoftDrones.Api.csproj",
         "packagesPath": "C:\\Users\\yasith.magulagama\\.nuget\\packages\\",
-        "outputPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\obj\\",
+        "outputPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,93 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj",
+        "projectName": "TestMusalaSoftDrones",
+        "projectPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\TestMusalaSoftDrones.csproj",
+        "packagesPath": "C:\\Users\\yasith.magulagama\\.nuget\\packages\\",
+        "outputPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\TestMusalaSoftDrones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yasith.magulagama\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\MusalaSoftDrones.Api.csproj": {
+                "projectPath": "D:\\InterviewRepo\\MusalaSoftDroneApplication\\MusalaSoftDrones\\MusalaSoftDrones.Api\\MusalaSoftDrones.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FakeItEasy": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
             "FluentAssertions": {
               "target": "Package",
               "version": "[6.10.0, )"

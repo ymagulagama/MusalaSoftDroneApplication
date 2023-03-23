@@ -5,10 +5,16 @@ D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Ap
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\MusalaSoftDrones.Api.runtimeconfig.json
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\MusalaSoftDrones.Api.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\MusalaSoftDrones.Api.pdb
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\obj\Debug\net6.0\MusalaSoftDrones.Api.csproj.AssemblyReference.cache
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\obj\Debug\net6.0\MusalaSoftDrones.Api.GeneratedMSBuildEditorConfig.editorconfig
 D:\InterviewRepo\MusalaSoftDroneApplication\MusalaSoftDrones\MusalaSoftDrones.Api\obj\Debug\net6.0\MusalaSoftDrones.Api.AssemblyInfoInputs.cache

@@ -1,6 +1,10 @@
 ﻿namespace MusalaSoftDrones.Api.DomainEntities.Enums
 {
-    public class Model
+    public enum Model
     {
+        LIGHTWEIGHT,
+        MIDDLEWEIGHT,
+        CRUISERWEIGHT,
+        HEAVYWEIGHT
     }
 }

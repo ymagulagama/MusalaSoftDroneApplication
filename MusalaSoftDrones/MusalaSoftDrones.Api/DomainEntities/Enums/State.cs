@@ -1,6 +1,15 @@
 ﻿namespace MusalaSoftDrones.Api.DomainEntities.Enums
 {
-    public class State
+    /// <summary>
+    /// Drone related states are mention in this class.
+    /// </summary>
+    public enum State
     {
+        IDLE,
+        LOADING,
+        LOADED,
+        DELIVERING,
+        DELIVERED,
+        RETURNING
     }
 }
